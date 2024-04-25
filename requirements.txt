@@ -1,0 +1,7 @@
+openpyxl
+#pandas==2.0.1
+pandas
+#plotly==5.13.1
+plotly
+#streamlit==1.25.0
+streamlit
